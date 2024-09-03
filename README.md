@@ -1,8 +1,8 @@
 # Karim Gaffiero
 
-## Hi All I'm a Data Scientist 👋
+## Hi All ! 👋
 
-Hi! I'm a Data Scientist with a Master’s in Applied Mathematics, Statistics, and Data Science.
+I'm a Data Scientist with a Master’s in Applied Mathematics, Statistics, and Data Science.
 
 Welcome and thank you for visiting my repositories.
 
