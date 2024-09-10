@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./github-header-image(1).png)
 
 I'm a Data Scientist with a Master’s degree in Applied Mathematics, Statistics, and Data Science.
 
