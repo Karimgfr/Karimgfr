@@ -1,8 +1,6 @@
-# Karim Gaffiero
+![Header](./github-header-image.png)
 
-## Hi All ! 👋
-
-I'm a Data Scientist with a Master’s in Applied Mathematics, Statistics, and Data Science.
+I'm a Data Scientist with a Master’s degree in Applied Mathematics, Statistics, and Data Science.
 
 Welcome and thank you for visiting my repositories.
 
